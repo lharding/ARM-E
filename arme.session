@@ -1,0 +1,26 @@
+# SciTE session file
+
+buffer.1.path=/usr/share/scite/SciTEGlobal.properties
+buffer.1.position=999
+
+buffer.2.path=/home/lharding/projects/arduino-sketchbook/arme/actors.h
+buffer.2.position=1
+
+buffer.3.path=/home/lharding/projects/arduino-sketchbook/arme/arme.pde
+buffer.3.position=7274
+
+buffer.4.path=/home/lharding/projects/arduino-sketchbook/arme/sequence.h
+buffer.4.position=1
+
+buffer.5.path=/home/lharding/arduino-0015/hardware/libraries/meggyjr/MeggyJrSimple.h
+buffer.5.position=7843
+
+buffer.6.path=/home/lharding/arduino-0015/hardware/libraries/meggyjr/MeggyJr.h
+buffer.6.position=2001
+
+buffer.7.path=/home/lharding/arduino-0015/hardware/libraries/meggyjr/MeggyJr.cpp
+buffer.7.position=10126
+
+buffer.8.path=/home/lharding/projects/arduino-sketchbook/arme/song.h
+buffer.8.position=290
+buffer.8.current=1
