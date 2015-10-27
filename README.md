@@ -5,6 +5,6 @@ This is a [Meggy Jr.](http://www.evilmadscientist.com/article.php/meggyjr) re/de
 	
 Even if you don't find the game interesting, I've created what amounts to a Meggy Jr. game engine, which you may want to take a look at. It does basic Actor management, time-based sequences, and a sound engine that approximates a (very) poor man's MIDI synth.
 		
-I haven't encountered any serious bugs, but please let me know over on the [EMSL Forum Topic](http://www.evilmadscientist.com/forum/viewtopic.php?showtopic=1840") if you find any. Do note that this game may require an ATmega328 Meggy to run, as it's rather RAM hungry.
+Do note that this game may require an ATmega328 Meggy to run, as it's rather RAM hungry.
 
 Note: this project is hosted both [on github](http://github.com/lharding/ARM-E) (where development will occur; please direct pull requests here if convenient) and as part of the [Meggy Jr RGB Library](http://code.google.com/p/meggy-jr-rgb/) project (under contributed/games; this version should remain release quality such as that applies to a project like this).
